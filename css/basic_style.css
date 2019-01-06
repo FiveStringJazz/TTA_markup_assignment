@@ -1,0 +1,14 @@
+body {
+	background-color: #69BCEE;
+	color: #1952EC;
+}
+
+.photo {
+	height: 300px;
+	width: 600px;
+	border: 2px dashed red;
+}
+
+.video {
+	text-align: center;
+}
